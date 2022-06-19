@@ -1,0 +1,21 @@
+{
+  "name": "remontkompbrest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass styles/index.scss styles/index.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exuperi/remontkompbrest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exuperi/remontkompbrest/issues"
+  },
+  "homepage": "https://github.com/exuperi/remontkompbrest#readme"
+}
